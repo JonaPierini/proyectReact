@@ -1,0 +1,16 @@
+/* styles.css */
+.PopoverTrigger {
+    background-color: rgb(176, 81, 81);
+    border-radius: 4px;
+  }
+  
+  .PopoverContent {
+    border-radius: 4px;
+    padding: 20px;
+    width: 260px;
+    background-color: rgb(54, 14, 14);
+  }
+  
+  .PopoverArrow {
+    fill: rgb(203, 17, 17);
+  }
